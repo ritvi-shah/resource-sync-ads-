@@ -1,0 +1,13 @@
+{
+  "routes": [
+    { "path": "/", "title": "Dashboard" },
+    { "path": "/resources", "title": "Resource Library" },
+    { "path": "/resources/new", "title": "Create Resource" },
+    { "path": "/resources/:id", "title": "Resource Details" },
+    { "path": "/resources/:id/edit", "title": "Edit Resource" },
+    { "path": "/popular", "title": "Popular Resources" },
+    { "path": "/recent", "title": "Recent Resources" },
+    { "path": "/dsa", "title": "Splay Tree" },
+    { "path": "/benchmarks", "title": "Benchmark Analytics" }
+  ]
+}

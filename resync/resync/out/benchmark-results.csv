@@ -1,0 +1,13 @@
+Workload,Tree,ResourceCount,SearchCount,HeightAfterMetrics,AvgComparisons,AvgDepth,AvgRotationsPerSearch,MedianSearchTimeMs
+"Random searches","Ordinary BST",1000,10000,999,501.5208,501.5208,0.0,13.400001
+"Random searches","AVL Tree",1000,10000,9,8.9907,7.9907,0.0,0.7368
+"Random searches","Splay Tree",1000,10000,20,12.5422,11.5422,11.5422,4.7055
+"Repeated hot-key searches","Ordinary BST",1000,10000,999,500.1412,500.1412,0.0,13.256799
+"Repeated hot-key searches","AVL Tree",1000,10000,9,8.4936,7.4936,0.0,0.4621
+"Repeated hot-key searches","Splay Tree",1000,10000,27,7.6437,6.6437,6.6437,0.9994
+"Mixed campus access","Ordinary BST",1000,10000,999,155.98,155.98,0.0,3.9026
+"Mixed campus access","AVL Tree",1000,10000,9,9.02,8.02,0.0,0.309801
+"Mixed campus access","Splay Tree",1000,10000,31,10.305,9.305,9.305,1.4371
+"Zipf-like popularity","Ordinary BST",1000,10000,999,131.6097,131.6097,0.0,3.4027
+"Zipf-like popularity","AVL Tree",1000,10000,9,9.1924,8.1924,0.0,0.4949
+"Zipf-like popularity","Splay Tree",1000,10000,27,9.2161,8.2161,8.2161,0.9591

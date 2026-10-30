@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Smart Content Manager tree mark">
+  <rect width="128" height="128" rx="28" fill="#F4F1E8"/>
+  <g fill="none" stroke="#71877B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 38v13M64 51 40 66M64 51l24 15M40 76v9M40 76 25 87M40 76l15 11M88 76v9M88 76 73 87M88 76l15 11"/>
+  </g>
+  <g fill="#285B4D">
+    <circle cx="64" cy="30" r="12"/>
+    <circle cx="40" cy="68" r="10"/>
+    <circle cx="88" cy="68" r="10"/>
+    <circle cx="25" cy="93" r="7"/>
+    <circle cx="55" cy="93" r="7"/>
+    <circle cx="73" cy="93" r="7"/>
+    <circle cx="103" cy="93" r="7"/>
+  </g>
+  <circle cx="64" cy="30" r="4" fill="#D5A34B"/>
+</svg>
